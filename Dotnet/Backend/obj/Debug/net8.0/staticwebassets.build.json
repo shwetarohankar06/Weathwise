@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "J96c7KO3UnsSTB5SVsAsAH7En7kbV8sPdx1UuUQdRYY=",
+  "Source": "WealthWiseAPI",
+  "BasePath": "_content/WealthWiseAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
